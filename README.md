@@ -1,2 +1,2 @@
-# Career-Accelerator-
-This will ve the repository I will use to make different codespaces for the projects I will be doing in the Career Accelerator
+# DIY ALexa
+I want to make my own alexa by using a chatGPT api and run it off a rasberry pi and make it have the same functionalities as my alexa, location based weather, spotify, etc
